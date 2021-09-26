@@ -10,7 +10,7 @@ const Canales = [{
     },
     {
         'nombre': '🏛️ UCL Televisión LATAM',
-        'm3u': 'https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL',
+        'm3u': 'https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8',
         'fuente': 'https://tv.senado.cl/'
     },
     {
