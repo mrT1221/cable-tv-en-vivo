@@ -9,6 +9,11 @@ const Canales = [{
         'fuente': 'https://tv.senado.cl/'
     },
     {
+        'nombre': '🏛️ UCL Televisión LATAM',
+        'm3u': 'https://livedelta.cdn.antel.net.uy/out/u/url_canalu.m3u8?PlaylistM3UCL',
+        'fuente': 'https://tv.senado.cl/'
+    },
+    {
         'nombre': '🏛️ TV Senado 3',
         'url': 'https://www.youtube-nocookie.com/embed/live_stream?channel=UC4GJ43VNn4AYfiYa0RBCHQg&autoplay=1&modestbranding=1&showinfo=0',
         'fuente': 'https://www.youtube.com/channel/UC4GJ43VNn4AYfiYa0RBCHQg'
