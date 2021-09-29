@@ -3,6 +3,12 @@ const Canales = [{
         'url': 'https://janus-tv.senado.cl/embed.php',
         'fuente': 'https://tv.senado.cl/'
     },
+      {
+        'nombre': '🏛️ NEWS',
+        'url': 'http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8',
+        'fuente': 'ád'
+    },
+                 
     {
         'nombre': '🏛️ TV Senado 2',
         'm3u': 'https://janus-tv-ply.senado.cl/playlist/playlist.m3u8',
