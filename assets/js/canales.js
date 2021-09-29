@@ -5,7 +5,7 @@ const Canales = [{
     },
       {
         'nombre': '🏛️ NEWS',
-        'url': 'http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8',
+        'm3u': 'http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8',
         'fuente': 'ád'
     },
                  
